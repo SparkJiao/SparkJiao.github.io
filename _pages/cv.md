@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * B.S. in Software Engineering, Shandong University, 2019
-* M.S. in Computer Science, Shandong University, 2022 (expected)
+* M.S. in Computer Science, Shandong University, mentored by Prof.Liqiang Nie, 2022 (expected)
 
 Research Experience
 ======
-* Intern at Tsinghua Unversity CoAI Lab, supervised by Minlie Huang, from Oct. 2018 to Jun. 2019.
+* Intern at Tsinghua Unversity CoAI Lab, supervised by Prof.Minlie Huang, from Oct. 2018 to Jun. 2019.
   
 Research Interests
 ======
