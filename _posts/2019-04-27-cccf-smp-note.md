@@ -94,3 +94,6 @@ based on SLQA -> EMNLP
 - 先用一个用儿童语料库训练的语言模型去过滤
 - 生成模型本身比较保守，双重过滤后概率会远小于真实世界的概率
 
+## Q&A
+
+### Constraint on Dialog Generation
