@@ -47,7 +47,7 @@ based on Pattern/LM/Seq2Seq
 哈工大聊天机器人“笨笨”/任务型对话系统
 
 ### Few-shot Learning
-####小样本的训练
+#### 小样本的训练
 标注数据的自动扩充 Seq2Seq/Pre=training
 How to do few-shot learning on sequence labeling(slot filling) task?
 
