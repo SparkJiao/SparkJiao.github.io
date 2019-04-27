@@ -29,5 +29,36 @@ Image object + text -> BERT
 ### VideoBERT(Google)
 videos -> frames -> token -> BERT
 
-### Application: Video QA, SUmmarization and Chat.
+### Application: Video QA, Summarization and Chat.
 Video span like machine reading comprehension.
+
+## NLU in Task-Oriented Dialog System
+intent detection, slot filling, state tracking.
+
+### Intent Detection
+### Slot Filling
+### Dialog Management
+Reinforcement Learning
+### Dialog Generation
+based on Pattern/LM/Seq2Seq
+
+### 对话技术平台
+希望中小型开发者只需要上传自己的数据，即可开发自己的对话系统。
+哈工大聊天机器人“笨笨”/任务型对话系统
+
+### Few-shot Learning
+####小样本的训练
+标注数据的自动扩充 Seq2Seq/Pre=training
+How to do few-shot learning on sequence labeling(slot filling) task?
+
+### Draw-back of traditional dialong system
+Depend on previous dialog.
+Joing Training: Intent detection + Slot filling
+
+based on Stack Propagation(important)
+Multi-Task
+
+### Evaluation of Dialog System Techniques
+ECDT2017-2018
+
+
