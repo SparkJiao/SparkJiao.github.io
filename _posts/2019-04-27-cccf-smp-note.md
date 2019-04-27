@@ -62,4 +62,12 @@ Joing Training: Intent detection + Slot filling based on Stack Propagation(impor
 ### Evaluation of Dialog System Techniques
 ECDT2017-2018
 
+## Alibaba
 
+Asememble Learning
+Hybrid CNN   
+冷启动快速端到端测试 Deep reinforcement Learning
+
+
+### MRC for Unstructured Data
+based on SLQA -> EMNLP
