@@ -71,3 +71,26 @@ Hybrid CNN
 
 ### MRC for Unstructured Data
 based on SLQA -> EMNLP
+
+## Open-Domain Non-Oriented Dialog System
+
+### Retrieval-Based Chatbot
+
+### Multi-View: Relevence, Interestingness, Informativeness,
+
+### Non-Sentential Utterance Resolution
+
+### Retrieval from Non-Dialogue Corpus
+- 和阅读理解有什么区别？ 专业知识可能会粒度特别的细，所以需要开放域（大概是这个意思）
+
+### Neural Responce Generation
+- The "Bland Response" Problem: I dont't know/Well/Great/Fine, Jiwei Li
+  - Adversarial Training
+  - discriminator生成的是比较细粒度的东西，用一个单一的score作为reward去回传会不会有问题，所以把？？？？和embedding直接乘起来， 剩下的没记下来orz 好像组会讲过XD
+- The "Myopia Problem" of Beam Search
+
+### Child Friendly Social Chatbot
+- 避免一些对小孩不合适的话题，谈恋爱，结婚生子等
+- 先用一个用儿童语料库训练的语言模型去过滤
+- 生成模型本身比较保守，双重过滤后概率会远小于真实世界的概率
+
