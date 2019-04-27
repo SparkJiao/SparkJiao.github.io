@@ -19,10 +19,10 @@ Supervised Language Model
 ### MS: KnowledgeBERT for Semantic Parsing
 MSPars: A Multi-Perspective Semantic Parsing Dataset for Knowledge-based Question Answering
 
-### Pre-training=based Natural Language Generation
+### Pre-training-based Natural Language Generation
 BERT-output -> draft(Text Summarization) -> Transformer Decoder -> output
 
-### Pre=training in ImageNet/Multi-Modal
+### Pre-training in ImageNet/Multi-Modal
 ImageBERT
 Image object + text -> BERT
 
