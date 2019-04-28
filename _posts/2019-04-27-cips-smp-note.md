@@ -1,7 +1,7 @@
 ---
-title: '4.27 CCCF SMP Notes'
+title: '4.27 CIPS SMP Notes'
 date: 2019-04-27
-permalink: /posts/2019/0427/cccf-smp-notes/
+permalink: /posts/2019/0427/cips-smp-notes/
 tags:
   - notes
 ---
