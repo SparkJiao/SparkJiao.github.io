@@ -17,6 +17,7 @@ Education
 Research Experience
 ======
 * Intern at Tsinghua Unversity CoAI Lab, supervised by Prof.Minlie Huang, from Oct. 2018 to Jun. 2019.
+* Intern at DAMO Academy, Alibaba inc., supervised by Dr.Feng Ji, from Jun. 2020 to Feb. 2021.
   
 Research Interests
 ======
