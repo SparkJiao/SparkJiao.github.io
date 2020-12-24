@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Fangkai Jiao(焦方锴), a firse-year Master student at Shandong University, mentored by [Dr. Liqiang Nie](https://liqiangnie.github.io/). I received my bachelor degree in Software Engineering from Shandong University.
+I am Fangkai Jiao(焦方锴), a second-year Master student at Shandong University, mentored by [Dr. Liqiang Nie](https://liqiangnie.github.io/). I received my bachelor degree in Software Engineering from Shandong University in 2019.
 
 My primary research interest includes machine reading comprehension and question answering, especially those need multiple reasoning skills.
 
