@@ -12,4 +12,4 @@ I am Fangkai Jiao(焦方锴), a second-year Master student at Shandong Universit
 
 My primary research interest includes machine reading comprehension and question answering, especially those need multiple reasoning skills.
 
-I interned at CoAI Lab, Tsinghua University, mentored by [Dr. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/publications/) from Oct. 2018 to Aug. 2019. I am currently an internship at DAMO Academy, Alibaba-inc.
+I interned at CoAI Lab, Tsinghua University, mentored by [Dr. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/publications/) from Oct. 2018 to Aug. 2019. I was also an internship at DAMO Academy, Alibaba-inc from Jul. 2020 to Feb. 2021, mentored by Dr. Feng Ji and Dr. Feng-Lin Li.
