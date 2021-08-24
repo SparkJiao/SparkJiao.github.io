@@ -22,7 +22,7 @@ author_profile: true
 [[repo](https://github.com/SparkJiao/retrieval-based-mrc-pretraining)]
 
 - **Conversational Image Search** <br>
-Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _Under review by TIP_.
+Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _TIP_ 2021.
 [[repo](https://github.com/SparkJiao/LARCH)]
 
 - **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction** <br>
