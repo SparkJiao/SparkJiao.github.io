@@ -23,7 +23,7 @@ author_profile: true
 
 - **Conversational Image Search** <br>
 Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _TIP_ 2021.
-[[pdf](/files/2021TIP_Contextual_Image_Search.pdf)]
+[[pdf](https://ieeexplore.ieee.org/document/9528996)]
 [[repo](https://github.com/SparkJiao/LARCH)]
 
 - **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction** <br>
