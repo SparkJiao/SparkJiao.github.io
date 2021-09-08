@@ -22,7 +22,7 @@ author_profile: true
 [[repo](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]
 
 - **Conversational Image Search** <br>
-Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _TIP_ 2021.
+Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _TIP 2021_.
 [[pdf](https://ieeexplore.ieee.org/document/9528996)]
 [[repo](https://github.com/SparkJiao/LARCH)]
 
