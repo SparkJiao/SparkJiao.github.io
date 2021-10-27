@@ -16,7 +16,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/Fangkai_JIAO.pdf
+    # url: /files/Fangkai_JIAO.pdf
+    url: /nimo-markdown-cv/
     
   # - title: "Guide"
   #   url: /markdown/
