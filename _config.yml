@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Fangkai Jiao"
   avatar           : "me3_clip.jpg"
-  bio              : "Master of CS in Shandong University, advised by Prof. Liqiang Nie"
+  bio              : "Master student of CS in Shandong University, advised by Prof. Liqiang Nie"
   location         : "Qingdao, Shandong, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=_u8lwyIAAAAJ"
   email            : "jiaofangkai@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
