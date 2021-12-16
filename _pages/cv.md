@@ -9,23 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Software Engineering, Shandong University, 2019
-* M.S. in Computer Science, Shandong University, mentored by Prof.Liqiang Nie, 2022 (expected)
+## Education
+<!-- ====== -->
+* B.E. in Software Engineering, Shandong University, 2019
+* M.S. in Computer Science, Shandong University, supervised by Prof.Liqiang Nie, 2022 (expected)
 
-Research Experience
-======
-* Intern at Tsinghua Unversity CoAI Lab, supervised by Prof.Minlie Huang, from Oct. 2018 to Jun. 2019.
-* Intern at DAMO Academy, Alibaba inc., supervised by Dr.Feng Ji, from Jun. 2020 to Feb. 2021.
+## Experience
+<!-- ====== -->
+* Intern at Tsinghua Unversity CoAI Lab, supervised by Prof. Minlie Huang, from Oct. 2018 to Jun. 2019.
+* Intern at DAMO Academy, Alibaba inc., supervised by Dr. Feng Ji and Dr. Feng-Lin Li, from Jun. 2020 to Feb. 2021.
+* 
   
-Research Interests
-======
-* Macine reading comprehension
-* Question answering
+## Research Interests
+<!-- ====== -->
+* Macine reading comprehension and question answering
+* Pre-training
 
-Awards and Honors
-=====
+## Awards and Honors
+<!-- ===== -->
+* Dean's Scholarship of College of Computer Science and Technology, 2021
+* Dean's Scholarship of College in Software Engeering, 2018
 * Bronze Medal in The ACM-ICPC Asia Regional Contest Urumqi Site, 2017
 * Silver Medal in The ACM-ICPC Asia Regional Contest Qingdao Site, 2017
 * Bronze Medal in The ACM-ICPC Asia Regional Contest China-Final, 2016
@@ -33,11 +36,10 @@ Awards and Honors
 * Silver Medal in The 8th "Langchao Cup" Shandong Collegiate Programming Contest
 * Gold Medal in The 9th “Langchao Cup” Shandong Collegiate Programming Contest
 * National Scholarships of Shandong University, 2016
-* Dean Scholarship of College in Software Engeering, 2018
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
