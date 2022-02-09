@@ -18,4 +18,6 @@ I interned at CoAI Lab, Tsinghua University, mentored by [Dr. Minlie Huang](http
 
 ## News
 
+2022.2.9: Our system, MERIt (Deberta-v2-xxlarge) achieves a new SOTA on [Reclor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) leaderboard.
+
 2021.11.5: Our system for logical reasoning achieves the Top-1 results among single models on [Reclor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) leaderboard.
