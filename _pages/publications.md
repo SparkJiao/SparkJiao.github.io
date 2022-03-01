@@ -15,6 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2022
+
+- **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning** <br>
+**Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review._  
+[[Paper]()]
+[[Code](https://github.com/SparkJiao/MERIt)]
+
+
 ## 2021
 
 - **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training** <br>
@@ -35,9 +43,3 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 [[Code](https://github.com/SparkJiao/Self-Training-MRC)]
 
 
-## Preprints
-
-- **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning** <br>
-**Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review._  
-[[Paper]()]
-[[Code](https://github.com/SparkJiao/reclor_challenge)]
