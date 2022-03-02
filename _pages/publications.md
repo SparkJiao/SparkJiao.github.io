@@ -19,7 +19,7 @@ author_profile: true
 
 - **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning** <br>
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _ACL 2022 (Findings)._  
-[[Paper]()]
+[[Paper](https://arxiv.org/abs/2203.00357)]
 [[Code](https://github.com/SparkJiao/MERIt)]
 
 
