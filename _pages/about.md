@@ -18,7 +18,9 @@ I interned at CoAI Lab, Tsinghua University, mentored by [Dr. Minlie Huang](http
 
 ## News
 
-24/02/2022: One paper accepted by Findings of ACL 2022.
+31/03/2022: One paper is accepted by SIGIR 2022.
+
+24/02/2022: One paper is accepted by Findings of ACL 2022.
 
 09/02/2022: Our system, MERIt (Deberta-v2-xxlarge) achieves a new SOTA on [Reclor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) leaderboard.
 
