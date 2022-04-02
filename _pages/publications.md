@@ -18,15 +18,19 @@ author_profile: true
 ## 2022
 
 - **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning** <br>
-**Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _ACL 2022 (Findings)._  
+**Fangkai Jiao**, Yangyang Guo, Xuemeng Song and Liqiang Nie. _ACL 2022 (Findings)._  
 [[Paper](https://arxiv.org/abs/2203.00357)]
 [[Code](https://github.com/SparkJiao/MERIt)]
 
+- **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning** <br>  
+Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiaojun Chang. _SIGIR 2022._  
+[[Paper]()]
+[[Code]()]
 
 ## 2021
 
 - **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training** <br>
-**Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _ACL 2021 (Findings)._  
+**Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li and Liqiang Nie. _ACL 2021 (Findings)._  
 [[Paper](https://arxiv.org/pdf/2105.04201.pdf)]
 [[Code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]
 
