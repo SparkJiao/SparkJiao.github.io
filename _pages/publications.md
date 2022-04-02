@@ -22,7 +22,7 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2203.00357)]
 [[Code](https://github.com/SparkJiao/MERIt)]
 
-- **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning** <br>  
+- **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning** <br>
 Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiaojun Chang. _SIGIR 2022._  
 [[Paper]()]
 [[Code]()]
