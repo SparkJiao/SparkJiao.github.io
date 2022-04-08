@@ -21,6 +21,9 @@ author_profile: true
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song and Liqiang Nie. _ACL 2022 (Findings)._  
 [[Paper](https://arxiv.org/abs/2203.00357)]
 [[Code](https://github.com/SparkJiao/MERIt)]
+[[Poster]()]
+[[Slides]()]
+[[Video]()]
 
 - **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning** <br>
 Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiaojun Chang. _SIGIR 2022._  
