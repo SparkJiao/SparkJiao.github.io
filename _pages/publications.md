@@ -25,7 +25,7 @@ author_profile: true
 
 - **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning** <br>
 Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiaojun Chang. _SIGIR 2022._  
-[[Paper](SparkJiao.github.io/files/sigir2022-camera-ready.pdf)]
+[[Paper](http://jiaofangkai.com/files/sigir2022-camera-ready.pdf)]
 [[Code](https://github.com/SparkJiao/MG-PFCM_outfit_rec)]
 
 ## 2021
