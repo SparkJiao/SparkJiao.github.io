@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am Fangkai Jiao (焦方锴). I will be a first-year PhD student at Nanyang Technological University with the [A*STAR SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa). I am fortunate to be supervised by [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/home) and [Prof. Shafiq Joty](https://raihanjoty.github.io/). Before that, I obtained both my M.Eng. and B.Eng. degree from Shandong University in 2019 and 2015, respecitively, under the supervison of [Prof. Liqiang Nie](https://liqiangnie.github.io/).
+My name is Fangkai Jiao (焦方锴). I will be a first-year PhD student at Nanyang Technological University with the [A*STAR SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa). I am fortunate to be supervised by [Prof. Shafiq Joty](https://raihanjoty.github.io/) and [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/home). Before that, I obtained both my M.Eng. and B.Eng. degree from Shandong University in 2019 and 2015, respecitively, under the supervison of [Prof. Liqiang Nie](https://liqiangnie.github.io/).
 
 My primary research interest includes pre-training, machine reading comprehension and question answering.
 
