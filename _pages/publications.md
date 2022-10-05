@@ -28,6 +28,11 @@ Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiao
 [[Paper](http://jiaofangkai.com/files/sigir2022-camera-ready.pdf)]
 [[Code](https://github.com/SparkJiao/MG-PFCM_outfit_rec)]
 
+- **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions** <br>
+**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASL 2022._
+[[Paper]()]
+[[Code]()]
+
 ## 2021
 
 - **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training** <br>
