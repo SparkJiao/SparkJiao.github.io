@@ -29,9 +29,9 @@ Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiao
 [[Code](https://github.com/SparkJiao/MG-PFCM_outfit_rec)]
 
 - **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions** <br>
-**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASL 2022._
+**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2022._  
 [[Paper]()]
-[[Code]()]
+[[Code](https://github.com/SparkJiao/dst-multi-woz-2.1/tree/master/CP-DST)]
 
 ## 2021
 
