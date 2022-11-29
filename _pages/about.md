@@ -10,13 +10,15 @@ redirect_from:
 
 ## About Me
 
-My name is Fangkai Jiao (焦方锴). I am a first-year PhD student at Nanyang Technological University with the [A*STAR SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa). I am fortunate to be supervised by [Prof. Shafiq Joty](https://raihanjoty.github.io/) and [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/home). Before that, I obtained both my M.Eng. and B.Eng. degree from Shandong University in 2019 and 2015, respecitively, under the supervison of [Prof. Liqiang Nie](https://liqiangnie.github.io/).
+My name is Fangkai Jiao (焦方锴). I am a first-year PhD student at Nanyang Technological University with the [A*STAR SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa). I am fortunate to be supervised by [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/), [Prof. Shafiq Joty](https://raihanjoty.github.io/) and [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/home). Before that, I obtained both my M.Eng. and B.Eng. degree from Shandong University in 2019 and 2015, respecitively, under the supervison of [Prof. Liqiang Nie](https://liqiangnie.github.io/).
 
 My primary research interest includes pre-training, machine reading comprehension and question answering.
 
 I interned at CoAI Lab, Tsinghua University, mentored by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) from Oct. 2018 to Aug. 2019. I was also an intern at DAMO Academy, Alibaba-inc from Jul. 2020 to Feb. 2021, mentored by [Dr. Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and [Dr. Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en).
 
 ## News
+
+05/10/2022: One paper is accepted by Transactions of Audio, Speech and Language Processing (TASL).
 
 31/03/2022: One paper is accepted by SIGIR 2022.
 
