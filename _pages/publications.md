@@ -19,7 +19,7 @@ author_profile: true
 
 - **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning** <br>
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song and Liqiang Nie. _ACL 2022 (Findings)._  
-[[Paper](https://arxiv.org/abs/2203.00357)]
+[[Paper](https://aclanthology.org/2022.findings-acl.276/)]
 [[Code](https://github.com/SparkJiao/MERIt)]
 [[Poster](http://jiaofangkai.com/files/poster.pdf)]
 
@@ -29,8 +29,8 @@ Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiao
 [[Code](https://github.com/SparkJiao/MG-PFCM_outfit_rec)]
 
 - **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions** <br>
-**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2022._  
-[[Paper]()]
+**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _IEEE/ACM TASL 2022._  
+[[Paper](https://ieeexplore.ieee.org/document/9956734)]
 [[Code](https://github.com/SparkJiao/dst-multi-woz-2.1/tree/master/CP-DST)]
 
 ## 2021
@@ -41,7 +41,7 @@ Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiao
 [[Code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]
 
 - **Conversational Image Search** <br>
-Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _TIP 2021_.  
+Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _IEEE TIP 2021_.  
 [[Paper](https://ieeexplore.ieee.org/document/9528996)]
 [[Code](https://github.com/SparkJiao/LARCH)]
 
