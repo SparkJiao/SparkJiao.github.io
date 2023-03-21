@@ -15,6 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2023
+
+- **Retrieving Multimodal Information for Augmented Generation: A Survey** <br>
+Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Preprint._  
+[[Paper](https://arxiv.org/abs/2303.10868)]  
+
+
 ## 2022
 
 - **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning** <br>
