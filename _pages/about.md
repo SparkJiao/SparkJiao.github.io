@@ -18,6 +18,8 @@ I interned at CoAI Lab, Tsinghua University, mentored by [Prof. Minlie Huang](ht
 
 ## News
 
+15/03/2023: Our survey about mutli-modal retrieval augmented generation is uploaded to [arxiv](https://arxiv.org/abs/2303.10868).
+
 05/10/2022: One paper is accepted by IEEE/ACM Transactions of Audio, Speech and Language Processing (TASL).
 
 31/03/2022: One paper is accepted by SIGIR 2022.
