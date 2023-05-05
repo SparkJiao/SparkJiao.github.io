@@ -18,6 +18,8 @@ I interned at CoAI Lab, Tsinghua University, mentored by [Prof. Minlie Huang](ht
 
 ## News
 
+02/05/2023: Our Chinese LLM - Panda LLM is released with 7B weights. Better reasoning capability. Check it [here](https://github.com/dandelionsllm/pandallm)!
+
 15/03/2023: Our survey about mutli-modal retrieval augmented generation is uploaded to [arxiv](https://arxiv.org/abs/2303.10868).
 
 05/10/2022: One paper is accepted by IEEE/ACM Transactions of Audio, Speech and Language Processing (TASL).
