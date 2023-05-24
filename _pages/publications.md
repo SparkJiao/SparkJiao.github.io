@@ -22,7 +22,7 @@ Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei
 [[Paper](https://arxiv.org/abs/2303.10868)]  
 
 - **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models** <br>
-Fangkai Jiao, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Preprint._  
+**Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Preprint._  
 [[Paper](https://arxiv.org/abs/2305.13718)][[Code](https://github.com/SparkJiao/MERIt-v2)]  
 
 
