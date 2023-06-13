@@ -12,11 +12,13 @@ redirect_from:
 
 My name is Fangkai Jiao (焦方锴). I am a first-year PhD student at Nanyang Technological University with the [A*STAR SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa). I am fortunate to be supervised by [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/), [Prof. Shafiq Joty](https://raihanjoty.github.io/) and [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/home). Before that, I obtained both my M.Eng. and B.Eng. degree from Shandong University in 2019 and 2015, respecitively, under the supervison of [Prof. Liqiang Nie](https://liqiangnie.github.io/).
 
-My primary research interest includes self-supervised pre-training, machine reading comprehension and question answering.
+My primary research interest includes self-supervised pre-training and machine reasoning with large language models.
 
 I interned at CoAI Lab, Tsinghua University, mentored by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) from Oct. 2018 to Aug. 2019. I was also an intern at DAMO Academy, Alibaba-inc from Jul. 2020 to Feb. 2021, mentored by [Dr. Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and [Dr. Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en).
 
 ## News
+
+06/13/2023: PandaLLM-13B-Chat on telegram bot is released. Check it at our [repo](https://github.com/dandelionsllm/pandallm#%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0).
 
 14/05/2023: PandaLLM-13B is released.
 
