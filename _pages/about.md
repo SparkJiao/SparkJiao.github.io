@@ -18,6 +18,8 @@ I interned at CoAI Lab, Tsinghua University, mentored by [Prof. Minlie Huang](ht
 
 ## News
 
+06/24/2023: PandaLLM-13B-Chat weights are released. Check it [here](https://huggingface.co/chitanda/llama-panda-13b-zh-wudao-chat-delta).
+
 06/13/2023: PandaLLM-13B-Chat on telegram bot is released. Check it at our [repo](https://github.com/dandelionsllm/pandallm#%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0).
 
 14/05/2023: PandaLLM-13B is released.
