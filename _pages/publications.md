@@ -32,11 +32,11 @@ Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei
 **Fangkai Jiao**, Yangyang Guo, Xuemeng Song and Liqiang Nie. _ACL 2022 (Findings)._  
 [[Paper](https://aclanthology.org/2022.findings-acl.276/)]
 [[Code](https://github.com/SparkJiao/MERIt)]
-[[Poster](http://jiaofangkai.com/files/poster.pdf)]
+[[Poster](https://jiaofangkai.com/files/poster.pdf)]
 
 - **Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning** <br>
 Weili Guan, **Fangkai Jiao**, Xuemeng Song, Haokun Wen, Chung-Hsing Yeh and Xiaojun Chang. _SIGIR 2022._  
-[[Paper](http://jiaofangkai.com/files/sigir2022-camera-ready.pdf)]
+[[Paper](https://jiaofangkai.com/files/sigir2022-camera-ready.pdf)]
 [[Code](https://github.com/SparkJiao/MG-PFCM_outfit_rec)]
 
 - **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions** <br>
