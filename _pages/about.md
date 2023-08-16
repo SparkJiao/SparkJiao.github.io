@@ -42,4 +42,6 @@ My primary research interest includes self-supervised pre-training and machine r
 
 ### Reviewer
 
-ACM MM 2022 (workshop), IEEE/ACM TASL, IEEE TKDE, IEEE TMM.
+**Confernece**: EMNLP 2023, ACM MM 2022 (workshop)
+
+**Journal**: IEEE/ACM TASL, IEEE TKDE, IEEE TMM
