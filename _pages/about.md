@@ -18,25 +18,27 @@ My primary research interest includes self-supervised pre-training and machine r
 
 ## News
 
+08/10/2023: Weights of Panda-Llama2-13B & Panda-Llama2-13B-Chat are released. And PandaLLM project is also upgraded to PandaLLMOps. Check our tutorial about large scale distributed training [here](https://panda-tutorial.readthedocs.io/en/latest/quick_start.html).
+
 06/24/2023: PandaLLM-13B-Chat weights are released. Check it [here](https://huggingface.co/chitanda/llama-panda-13b-zh-wudao-chat-delta).
 
 06/13/2023: PandaLLM-13B-Chat on telegram bot is released. Check it at our [repo](https://github.com/dandelionsllm/pandallm#%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0).
 
-14/05/2023: PandaLLM-13B is released.
+05/14/2023: PandaLLM-13B is released.
 
-02/05/2023: Our Chinese LLM - Panda LLM is released with 7B weights. Better reasoning capability. Check it [here](https://github.com/dandelionsllm/pandallm)!
+05/02/2023: Our Chinese LLM - Panda LLM is released with 7B weights. Better reasoning capability. Check it [here](https://github.com/dandelionsllm/pandallm)!
 
-15/03/2023: Our survey about mutli-modal retrieval augmented generation is uploaded to [arxiv](https://arxiv.org/abs/2303.10868).
+03/15/2023: Our survey about mutli-modal retrieval augmented generation is uploaded to [arxiv](https://arxiv.org/abs/2303.10868).
 
-05/10/2022: One paper is accepted by IEEE/ACM Transactions of Audio, Speech and Language Processing (TASL).
+10/05/2022: One paper is accepted by IEEE/ACM Transactions of Audio, Speech and Language Processing (TASL).
 
-31/03/2022: One paper is accepted by SIGIR 2022.
+03/31/2022: One paper is accepted by SIGIR 2022.
 
-24/02/2022: One paper is accepted by Findings of ACL 2022.
+02/24/2022: One paper is accepted by Findings of ACL 2022.
 
-09/02/2022: Our system, MERIt (Deberta-v2-xxlarge) achieves a new SOTA on [Reclor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) leaderboard.
+02/09/2022: Our system, MERIt (Deberta-v2-xxlarge) achieves a new SOTA on [Reclor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) leaderboard.
 
-05/11/2021: Our system for logical reasoning achieves the Top-1 results among single models on [Reclor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) leaderboard.
+11/05/2021: Our system for logical reasoning achieves the Top-1 results among single models on [Reclor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) leaderboard.
 
 ## Academic Services
 
