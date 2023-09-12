@@ -25,6 +25,10 @@ Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei
 **Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Preprint._  
 [[Paper](https://arxiv.org/abs/2305.13718)][[Code](https://github.com/SparkJiao/MERIt-v2)]  
 
+- **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning** <br>
+Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Preprint._  
+[[Paper](https://arxiv.org/abs/2309.04766)][[Data]()]  
+
 
 ## 2022
 
