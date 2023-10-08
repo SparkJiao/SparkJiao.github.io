@@ -18,7 +18,7 @@ author_profile: true
 ## 2023
 
 - **Retrieving Multimodal Information for Augmented Generation: A Survey** <br>
-Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Preprint._  
+Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Findings of EMNLP 2023._  
 [[Paper](https://arxiv.org/abs/2303.10868)]  
 
 - **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models** <br>

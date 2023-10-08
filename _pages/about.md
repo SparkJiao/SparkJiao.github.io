@@ -18,6 +18,8 @@ My primary research interest includes self-supervised pre-training and machine r
 
 ## News
 
+10/08/2023: Our survey is accepted by Findings of EMNLP 2023.
+
 08/10/2023: Weights of Panda-Llama2-13B & Panda-Llama2-13B-Chat are released. And PandaLLM project is also upgraded to PandaLLMOps. Check our tutorial about large scale distributed training [here](https://panda-tutorial.readthedocs.io/en/latest/quick_start.html).
 
 06/24/2023: PandaLLM-13B-Chat weights are released. Check it [here](https://huggingface.co/chitanda/llama-panda-13b-zh-wudao-chat-delta).
