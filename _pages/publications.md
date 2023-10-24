@@ -17,6 +17,10 @@ author_profile: true
 
 ## 2023
 
+- **Unanswerable Visual Question Answering** <br>
+Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Preprint._  
+[[Paper](https://arxiv.org/abs/2310.10942)][[Data]()]
+
 - **Retrieving Multimodal Information for Augmented Generation: A Survey** <br>
 Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Findings of EMNLP 2023._  
 [[Paper](https://arxiv.org/abs/2303.10868)]  
