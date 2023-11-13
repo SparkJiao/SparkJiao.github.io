@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Fangkai Jiao (焦方锴). I am a second-year PhD student at Nanyang Technological University with the [A*STAR SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa). I am fortunate to be supervised by [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/), [Prof. Shafiq Joty](https://raihanjoty.github.io/) and [Dr. Nancy F. Chen](https://sites.google.com/site/nancyfchen/home). Before that, I obtained both my M.Eng. and B.Eng. degree from Shandong University in 2019 and 2015, respecitively, under the supervison of [Prof. Liqiang Nie](https://liqiangnie.github.io/). I also work closely with [Dr. Yangyang Guo](https://guoyang9.github.io/) and [Dr. Zhiyang Teng](https://zeeeyang.github.io/). I have interned at CoAI Lab, Tsinghua University, mentored by [Prof. Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml), DAMO Academy, Alibaba-inc, mentored by [Dr. Feng Ji](https://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and [Dr. Feng-Lin Li](https://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en), and Langboat Technology. 
 
-My primary research interest includes self-supervised pre-training and machine reasoning with large language models. I'm also contributing to the [PandaLLM](https://github.com/dandelionsllm/pandallm) project.
+My primary research interest includes self/weak-supervised training and machine reasoning with large language models. I'm also one of the main contributors to [PandaLLM](https://github.com/dandelionsllm/pandallm) project.
 
 
 
@@ -46,6 +46,6 @@ My primary research interest includes self-supervised pre-training and machine r
 
 ### Reviewer
 
-**Confernece**: EMNLP 2023, ACM MM 2022 (workshop)
+**Confernece**: ACL Rolling Review, EMNLP 2023, ACM MM 2022 (workshop)
 
 **Journal**: IEEE/ACM TASL, IEEE TKDE, IEEE TMM
