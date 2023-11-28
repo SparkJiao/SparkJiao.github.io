@@ -33,6 +33,10 @@ Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei
 Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Preprint._  
 [[Paper](https://arxiv.org/abs/2309.04766)][[Data]()]  
 
+- **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?** <br>  
+Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Preprint._  
+[[Paper]()]
+
 
 ## 2022
 
