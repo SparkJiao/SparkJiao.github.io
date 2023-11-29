@@ -35,7 +35,7 @@ Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, N
 
 - **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?** <br>
 Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Preprint._  
-[[Paper]()]
+[[Paper](https://arxiv.org/abs/2311.16989)]
 
 
 ## 2022
