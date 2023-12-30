@@ -17,6 +17,10 @@ author_profile: true
 
 ## 2023
 
+- **Improving In-context Learning via Bidirectional Alignment** <br>
+Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Preprint._.  
+[[Paper](https://arxiv.org/abs/2312.17055)]
+
 - **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability** <br>
 Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Preprint._  
 [[Paper](https://arxiv.org/abs/2310.10942)][[Data]()]
