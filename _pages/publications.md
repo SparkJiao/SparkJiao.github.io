@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2024
+
+- **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing** <br>
+**Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Preprint._  
+[[Paper](https://arxiv.org/abs/2402.00658)][[Code](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
+
 ## 2023
 
 - **Improving In-context Learning via Bidirectional Alignment** <br>
