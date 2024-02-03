@@ -19,17 +19,17 @@ author_profile: true
 
 - **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing** <br>
 **Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Preprint._  
-[[Paper](https://arxiv.org/abs/2402.00658)][[Code](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
+[[Paper](https://arxiv.org/abs/2402.00658)][[Code & Data & Weights](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
 
 ## 2023
 
 - **Improving In-context Learning via Bidirectional Alignment** <br>
 Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Preprint._.  
-[[Paper](https://arxiv.org/abs/2312.17055)]
+[[Paper](https://arxiv.org/abs/2312.17055)]  
 
 - **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability** <br>
 Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Preprint._  
-[[Paper](https://arxiv.org/abs/2310.10942)][[Data]()]
+[[Paper](https://arxiv.org/abs/2310.10942)][[Data]()]    
 
 - **Retrieving Multimodal Information for Augmented Generation: A Survey** <br>
 Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Findings of EMNLP 2023._  
@@ -37,15 +37,15 @@ Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei
 
 - **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models** <br>
 **Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Preprint._  
-[[Paper](https://arxiv.org/abs/2305.13718)][[Code](https://github.com/SparkJiao/MERIt-v2)]  
+[[Paper](https://arxiv.org/abs/2305.13718)][[Code & Data & Weights](https://github.com/SparkJiao/MERIt-v2)]  
 
 - **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning** <br>
 Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Preprint._  
-[[Paper](https://arxiv.org/abs/2309.04766)][[Data]()]  
+[[Paper](https://arxiv.org/abs/2309.04766)][[Data](https://github.com/SeaEval/SeaEval)][[Leaderboard](https://seaeval.github.io/)]    
 
 - **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?** <br>
 Hailin Chen\*, **Fangkai Jiao**\*, Xingxuan Li\*, Chengwei Qin\*, Mathieu Ravaut\*, Ruochen Zhao\*, Caiming Xiong, Shafiq Joty. _Preprint._  
-[[Paper](https://arxiv.org/abs/2311.16989)]
+[[Paper](https://arxiv.org/abs/2311.16989)][[Repository](https://github.com/ntunlp/OpenSource-LLMs-better-than-OpenAI)]  
 
 
 ## 2022
