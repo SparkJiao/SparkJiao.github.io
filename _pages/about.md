@@ -18,6 +18,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
+03/14/2024: Two papers are accepted by NAACL 2024.
+
 10/08/2023: Our survey is accepted by Findings of EMNLP 2023.
 
 08/10/2023: Weights of Panda-Llama2-13B & Panda-Llama2-13B-Chat are released. And PandaLLM project is also upgraded to PandaLLMOps. Check our tutorial about large scale distributed training [here](https://panda-tutorial.readthedocs.io/en/latest/quick_start.html).

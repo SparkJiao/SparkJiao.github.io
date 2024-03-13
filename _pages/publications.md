@@ -36,11 +36,11 @@ Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei
 [[Paper](https://arxiv.org/abs/2303.10868)]  
 
 - **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models** <br>
-**Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Preprint._  
+**Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _NAACL 2024._  
 [[Paper](https://arxiv.org/abs/2305.13718)][[Code & Data & Weights](https://github.com/SparkJiao/MERIt-v2)]  
 
 - **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning** <br>
-Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Preprint._  
+Bin Wang\*, Zhengyuan Liu\*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _NAACL 2024._  
 [[Paper](https://arxiv.org/abs/2309.04766)][[Data](https://github.com/SeaEval/SeaEval)][[Leaderboard](https://seaeval.github.io/)]    
 
 - **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?** <br>
