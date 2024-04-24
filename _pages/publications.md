@@ -17,7 +17,7 @@ author_profile: true
 
 ## 2024
 
-- **Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?** <br>  
+- **Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?** <br>
 Chengwei Qin\*, Wenhan Xia\*, Tan Wang\*, **Fangkai Jiao**, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _Preprint._  
 [[Paper](https://arxiv.org/abs/2404.12728)]  
 
