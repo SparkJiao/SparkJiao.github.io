@@ -18,6 +18,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
+05/15/2024: Joined MSRA as an intern.
+
 04/01/2024: Our survey and the integrated LLM contamination detection tool is released. Check the [paper](https://arxiv.org/abs/2404.00699) and [Github repository](https://github.com/ntunlp/LLMSanitize).
 
 03/14/2024: Two papers are accepted by NAACL 2024.
