@@ -41,7 +41,7 @@ Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Preprint._.
 [[Paper](https://arxiv.org/abs/2312.17055)]  
 
 - **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability** <br>
-Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Preprint._  
+Yanyang Guo, **Fangkai Jiao**, Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _TPAMI._  
 [[Paper](https://arxiv.org/abs/2310.10942)][[Data](https://github.com/guoyang9/UNK-VQA)]    
 
 - **Retrieving Multimodal Information for Augmented Generation: A Survey** <br>

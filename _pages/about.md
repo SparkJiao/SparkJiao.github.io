@@ -18,6 +18,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
+07/26/2024: UNK-VQA is accepted by TPAMI.
+
 05/15/2024: Joined MSRA as an intern.
 
 04/01/2024: Our survey and the integrated LLM contamination detection tool is released. Check the [paper](https://arxiv.org/abs/2404.00699) and [Github repository](https://github.com/ntunlp/LLMSanitize).
