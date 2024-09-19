@@ -27,7 +27,7 @@ Chengwei Qin\*, Wenhan Xia\*, Tan Wang\*, **Fangkai Jiao**, Yuchen Hu, Bosheng D
 [[Paper](https://arxiv.org/abs/2404.12728)]  
 
 - **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing** <br>
-**Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _Preprint._  
+**Fangkai Jiao**, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty. _EMNLP 2024._  
 [[Paper](https://arxiv.org/abs/2402.00658)][[Code & Data & Weights](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
 
 - **How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library** <br>

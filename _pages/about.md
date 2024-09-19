@@ -18,6 +18,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
+09/20/2024: pDPO is accepted by EMNLP 2024.
+
 07/26/2024: UNK-VQA is accepted by TPAMI.
 
 05/15/2024: Joined MSRA as an intern.
