@@ -18,7 +18,7 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
-09/20/2024: pDPO is accepted by EMNLP 2024.
+09/20/2024: [Learning Planning-based Reasoning](https://arxiv.org/abs/2402.00658) (Process-DPO) is accepted by EMNLP 2024.
 
 07/26/2024: UNK-VQA is accepted by TPAMI.
 
