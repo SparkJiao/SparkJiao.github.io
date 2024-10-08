@@ -17,6 +17,14 @@ author_profile: true
 
 ## 2024
 
+- **Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks** <br>
+Xingxuan Li, Weiwen Xu, Ruochen Zhao, **Fangkai Jiao**, Shafiq Joty, Lidong Bing. _Preprint._  
+[[Paper](https://arxiv.org/abs/2410.01428v1)]  
+
+- **Preference Optimization for Reasoning with Pseudo Feedback** <br>
+**Fangkai Jiao**, Geyang Guo, Xingxing Zhang, Nancy F. Chen, Shafiq Joty, Furu Wei. _Preprint._  
+
+
 - **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training** <br>
 Mengzhao Jia, Zhihan Zhang, Wenhao Yu, **Fangkai Jiao**, Meng Jiang. _Preprint._  
 [[Paper](https://arxiv.org/abs/2404.14604)]  
