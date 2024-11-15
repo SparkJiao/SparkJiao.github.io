@@ -18,6 +18,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
+11/14/2024: Our paper *Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing* has received the Outstanding Paper Award at EMNLP 2024.
+
 09/20/2024: [Learning Planning-based Reasoning](https://arxiv.org/abs/2402.00658) (Process-DPO) is accepted by EMNLP 2024.
 
 07/26/2024: UNK-VQA is accepted by TPAMI.
