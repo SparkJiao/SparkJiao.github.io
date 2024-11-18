@@ -17,6 +17,10 @@ author_profile: true
 
 ## 2024
 
+- **The VLLMSafety Paradox: Dual Ease in Jailbreak Attack and Defense** <br>
+Yangyang Guo, Fangkai Jiao, Liqiang Nie, Mohan Kankanhalli, _Preprint._  
+[[Paper](https://arxiv.org/abs/2411.08410)][[Code](https://github.com/SparkJiao/MMSafety)]  
+
 - **Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks** <br>
 Xingxuan Li, Weiwen Xu, Ruochen Zhao, **Fangkai Jiao**, Shafiq Joty, Lidong Bing. _Preprint._  
 [[Paper](https://arxiv.org/abs/2410.01428v1)]  
