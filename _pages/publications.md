@@ -17,8 +17,12 @@ author_profile: true
 
 ## 2024
 
+- **StructTest: Benchmarking LLMs' Reasoning through Compositional Structured Outputs** <br>
+Hailin Chen\*, **Fangkai Jiao**\*, Mathieu Ravaut\*, Nawshad Farruque\*, Xuan Phi Nguyen\*, Chengwei Qin, Manan Dey, Bosheng Ding, Caiming Xiong, Shafiq Joty, Yingbo Zhou. _Preprint._  
+[[Paper](https://arxiv.org/abs/2412.18011)][[Data & Code]()]  
+
 - **The VLLMSafety Paradox: Dual Ease in Jailbreak Attack and Defense** <br>
-Yangyang Guo, Fangkai Jiao, Liqiang Nie, Mohan Kankanhalli, _Preprint._  
+Yangyang Guo, Fangkai Jiao, Liqiang Nie, Mohan Kankanhalli. _Preprint._  
 [[Paper](https://arxiv.org/abs/2411.08410)][[Code](https://github.com/SparkJiao/MMSafety)]  
 
 - **Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks** <br>
