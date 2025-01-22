@@ -18,6 +18,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
+01/23/2025: One paper is accepted by ICLR 2025.
+
 11/14/2024: Our paper *Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing* has received the Outstanding Paper Award at EMNLP 2024.
 
 09/20/2024: [Learning Planning-based Reasoning](https://arxiv.org/abs/2402.00658) (Process-DPO) is accepted by EMNLP 2024.

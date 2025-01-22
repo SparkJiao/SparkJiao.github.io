@@ -30,7 +30,7 @@ Xingxuan Li, Weiwen Xu, Ruochen Zhao, **Fangkai Jiao**, Shafiq Joty, Lidong Bing
 [[Paper](https://arxiv.org/abs/2410.01428v1)]  
 
 - **Preference Optimization for Reasoning with Pseudo Feedback** <br>
-**Fangkai Jiao**, Geyang Guo, Xingxing Zhang, Nancy F. Chen, Shafiq Joty, Furu Wei. _Preprint._  
+**Fangkai Jiao**, Geyang Guo, Xingxing Zhang, Nancy F. Chen, Shafiq Joty, Furu Wei. _ICLR 2025._  
 [[Paper](https://arxiv.org/abs/2411.16345)]
 
 - **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training** <br>
