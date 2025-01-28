@@ -14,7 +14,7 @@ My name is Fangkai Jiao (焦方锴). I am a third-year PhD candidate at Nanyang 
 
 My primary research interest includes self/weak-supervised training and machine reasoning with large language models. I'm also one of the main contributors to [PandaLLM](https://github.com/dandelionsllm/pandallm) project.
 
-
+<span style="color:red;">*I'm on the job market now and would like to communicate with potential opportunities!*</span>
 
 ## News
 
