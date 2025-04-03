@@ -15,11 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## 2024
+## 2025
 
 - **A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems** <br>
 Zixuan Ke, **Fangkai Jiao**, Yifei Ming, Xuan-Phi Nguyen, Austin Xu, Do Xuan Long, Minzhi Li, Chengwei Qin, Peifeng Wang, Silvio Savarese, Caiming Xiong, Shafiq Joty. _Preprint._  
 [[Website & Paper](https://llm-reasoning-ai.github.io/)]  
+
+## 2024
 
 - **StructTest: Benchmarking LLMs' Reasoning through Compositional Structured Outputs** <br>
 Hailin Chen\*, **Fangkai Jiao**\*, Mathieu Ravaut\*, Nawshad Farruque\*, Xuan Phi Nguyen\*, Chengwei Qin, Manan Dey, Bosheng Ding, Caiming Xiong, Shafiq Joty, Yingbo Zhou. _Preprint._  
