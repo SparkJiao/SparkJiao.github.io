@@ -20,6 +20,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
+04/03/2025: We have one good survey to track the frontiers in LLM reasoning, check it [here](https://llm-reasoning-ai.github.io/).
+
 01/23/2025: One paper is accepted by ICLR 2025.
 
 11/14/2024: Our paper *Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing* has received the Outstanding Paper Award at EMNLP 2024.
