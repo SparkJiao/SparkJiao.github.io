@@ -22,6 +22,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 04/03/2025: We have one good survey to track the frontiers in LLM reasoning, check it [here](https://llm-reasoning-ai.github.io/).
 
+02/28/2025: Joined Bytedance as research intern.
+
 01/23/2025: One paper is accepted by ICLR 2025.
 
 11/14/2024: Our paper *Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing* has received the Outstanding Paper Award at EMNLP 2024.
@@ -64,6 +66,6 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ### Reviewer
 
-**Confernece**: ACL Rolling Review, EMNLP 2023, ACM MM 2022 (workshop), ICLR 2024
+**Confernece**: ACL Rolling Review, EMNLP 2023, ACM MM 2022 (workshop), ICLR 2024, COLM 2025.
 
 **Journal**: IEEE/ACM TASL, IEEE TKDE, IEEE TMM
