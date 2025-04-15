@@ -19,7 +19,7 @@ author_profile: true
 
 - **A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems** <br>
 Zixuan Ke, **Fangkai Jiao**, Yifei Ming, Xuan-Phi Nguyen, Austin Xu, Do Xuan Long, Minzhi Li, Chengwei Qin, Peifeng Wang, Silvio Savarese, Caiming Xiong, Shafiq Joty. _Preprint._  
-[[Website & Paper](https://llm-reasoning-ai.github.io/)]  
+[[Website](https://llm-reasoning-ai.github.io/)][[Paper](https://arxiv.org/abs/2504.09037)]  
 
 ## 2024
 
