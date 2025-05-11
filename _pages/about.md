@@ -66,6 +66,6 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ### Reviewer
 
-**Confernece**: ACL Rolling Review, EMNLP 2023, ACM MM 2022 (workshop), ICLR 2024, COLM 2025.
+**Confernece**: ACL Rolling Review, EMNLP 2023, ACM MM 2022 (workshop), ICLR 2024, COLM 2025, NeurIPS 2025.
 
 **Journal**: IEEE/ACM TASL, IEEE TKDE, IEEE TMM
