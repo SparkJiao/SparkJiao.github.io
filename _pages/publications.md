@@ -32,7 +32,7 @@ Yangyang Guo, **Fangkai Jiao**, Liqiang Nie, Mohan Kankanhalli. _Preprint._
 [[Paper](https://arxiv.org/abs/2411.08410)][[Code](https://github.com/SparkJiao/MMSafety)]  
 
 - **Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks** <br>
-Xingxuan Li, Weiwen Xu, Ruochen Zhao, **Fangkai Jiao**, Shafiq Joty, Lidong Bing. _Preprint._  
+Xingxuan Li, Weiwen Xu, Ruochen Zhao, **Fangkai Jiao**, Shafiq Joty, Lidong Bing. _ACL 2025._  
 [[Paper](https://arxiv.org/abs/2410.01428v1)]  
 
 - **Preference Optimization for Reasoning with Pseudo Feedback** <br>
@@ -45,7 +45,7 @@ Mengzhao Jia, Zhihan Zhang, Wenhao Yu, **Fangkai Jiao**, Meng Jiang. _Preprint._
 
 
 - **Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?** <br>
-Chengwei Qin\*, Wenhan Xia\*, Tan Wang\*, **Fangkai Jiao**, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _Preprint._  
+Chengwei Qin\*, Wenhan Xia\*, Tan Wang\*, **Fangkai Jiao**, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty. _Findings of ACL 2025._  
 [[Paper](https://arxiv.org/abs/2404.12728)]  
 
 - **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing** <br>
@@ -59,7 +59,7 @@ Mathieu Ravaut\*, Bosheng Ding\*, **Fangkai Jiao**, Hailin Chen, Xingxuan Li, Ru
 ## 2023
 
 - **Improving In-context Learning via Bidirectional Alignment** <br>
-Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _Preprint._.  
+Chengwei Qin, Wenhan Xia, **Fangkai Jiao**, Shafiq Joty. _ACL 2025._.  
 [[Paper](https://arxiv.org/abs/2312.17055)]  
 
 - **UNK-VQA: A Dataset and A Probe into Multi-modal Large Models' Abstention Ability** <br>

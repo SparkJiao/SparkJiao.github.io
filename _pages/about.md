@@ -20,6 +20,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
+05/15/2025: We have three papers accepted by ACL and Findings of ACL 2025. Congrats to my co-authors!
+
 04/03/2025: We have one good survey to track the frontiers in LLM reasoning, check it [here](https://llm-reasoning-ai.github.io/).
 
 02/28/2025: Joined Bytedance as research intern.
