@@ -20,6 +20,8 @@ My primary research interest includes self/weak-supervised training and machine 
 
 ## News
 
+06/26/2025: Our survey for frontiers in LLM reasoning has been accepted by TMLR. Congrats to my co-authors!
+
 05/15/2025: We have three papers accepted by ACL and Findings of ACL 2025. Congrats to my co-authors!
 
 04/03/2025: We have one good survey to track the frontiers in LLM reasoning, check it [here](https://llm-reasoning-ai.github.io/).
