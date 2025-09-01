@@ -10,15 +10,17 @@ redirect_from:
 
 ## About Me
 
-My name is Fangkai Jiao (焦方锴). I am a third-year PhD candidate at Nanyang Technological University and Institute of Infocomm Research (I<sup>2</sup>R), A*STAR, with [A*STAR SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa). I am fortunate to be supervised by [Prof. Shafiq Joty](https://raihanjoty.github.io/), [Prof. Nancy F. Chen](https://sites.google.com/site/nancyfchen/home) and [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/). Before that, I obtained both my M.Eng. and B.Eng. degree from Shandong University in 2022 and 2019, respecitively, under the supervision of [Prof. Liqiang Nie](https://liqiangnie.github.io/). I also work closely with [Dr. Yangyang Guo](https://guoyang9.github.io/), [Dr. Zhiyang Teng](https://zeeeyang.github.io/) and [Zhengyuan Liu](https://scholar.google.com.sg/citations?user=tqzidGsAAAAJ&hl=en). 
+My name is Fangkai Jiao (焦方锴). I am a fourth-year PhD candidate at Nanyang Technological University and Institute of Infocomm Research (I<sup>2</sup>R), A*STAR, with [A*STAR SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa). I am fortunate to be supervised by [Prof. Shafiq Joty](https://raihanjoty.github.io/), [Prof. Nancy F. Chen](https://sites.google.com/site/nancyfchen/home) and [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/). Before that, I obtained both my M.Eng. and B.Eng. degree from Shandong University in 2022 and 2019, respecitively, under the supervision of [Prof. Liqiang Nie](https://liqiangnie.github.io/). I also work closely with [Dr. Yangyang Guo](https://guoyang9.github.io/), [Dr. Zhiyang Teng](https://zeeeyang.github.io/) and [Zhengyuan Liu](https://scholar.google.com.sg/citations?user=tqzidGsAAAAJ&hl=en). 
 
-Previsouly, I have interned at CoAI Lab, Tsinghua University, mentored by [Prof. Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml); DAMO Academy, Alibaba Group, mentored by [Dr. Feng Ji](https://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and [Dr. Feng-Lin Li](https://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en), Langboat Technology, adivsed by [Yulong Wang](https://scholar.google.com/citations?user=yFhYPuQAAAAJ) and [Dr. Ming Zhou](https://scholar.google.com/citations?user=a0w5c0gAAAAJ&hl=en), and Microsoft Research, mentored by [Dr. Xingxing Zhang](https://xingxingzhang.github.io/).  
+Previsouly, I have interned at CoAI Lab, Tsinghua University, mentored by [Prof. Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml); DAMO Academy, Alibaba Group, mentored by [Dr. Feng Ji](https://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and [Dr. Feng-Lin Li](https://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en), Langboat Technology, adivsed by [Yulong Wang](https://scholar.google.com/citations?user=yFhYPuQAAAAJ) and [Dr. Ming Zhou](https://scholar.google.com/citations?user=a0w5c0gAAAAJ&hl=en), and Microsoft Research, mentored by [Dr. Xingxing Zhang](https://xingxingzhang.github.io/).
 
-My primary research interest includes self/weak-supervised training and machine reasoning with large language models. I'm also one of the main contributors to [PandaLLM](https://github.com/dandelionsllm/pandallm) project.
+My research focuses on developing pseudo or decomposed feedback to improve the reasoning and complex task solving ability of LLMs and agent systems through reinforcement learning. I was one of the main contributors to [PandaLLM](https://github.com/dandelionsllm/pandallm) project.
 
 <span style="color:red;">*I'm on the job market now and would like to communicate with potential opportunities!*</span>
 
 ## News
+
+08/22/2025: Our search agent system based on Qwen2.5-32B has achived 25.9% on BrowseComp, 43.6% on BrowseComp-ZH, 65.2% on GAIA, and 71% on xbench-deepsearch.
 
 06/26/2025: Our survey for frontiers in LLM reasoning has been accepted by TMLR. Congrats to my co-authors!
 
@@ -26,7 +28,7 @@ My primary research interest includes self/weak-supervised training and machine 
 
 04/03/2025: We have one good survey to track the frontiers in LLM reasoning, check it [here](https://llm-reasoning-ai.github.io/).
 
-02/28/2025: Joined Bytedance as research intern.
+02/28/2025: Joined Bytedance Seed as research intern.
 
 01/23/2025: One paper is accepted by ICLR 2025.
 
