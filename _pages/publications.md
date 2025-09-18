@@ -28,7 +28,7 @@ Hailin Chen\*, **Fangkai Jiao**\*, Mathieu Ravaut\*, Nawshad Farruque\*, Xuan Ph
 [[Paper](https://arxiv.org/abs/2412.18011)][[Data & Code]()]  
 
 - **The VLLMSafety Paradox: Dual Ease in Jailbreak Attack and Defense** <br>
-Yangyang Guo, **Fangkai Jiao**, Liqiang Nie, Mohan Kankanhalli. _Preprint._  
+Yangyang Guo, **Fangkai Jiao**, Liqiang Nie, Mohan Kankanhalli. _NeurIPS 2025._  
 [[Paper](https://arxiv.org/abs/2411.08410)][[Code](https://github.com/SparkJiao/MMSafety)]  
 
 - **Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks** <br>

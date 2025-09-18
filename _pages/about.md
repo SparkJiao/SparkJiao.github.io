@@ -20,6 +20,8 @@ My research focuses on developing pseudo or decomposed feedback to improve the r
 
 ## News
 
+09/18/2025: One paper is accepted by NeurIPS 2025.
+
 08/22/2025: Our search agent system based on Qwen2.5-32B has achived 25.9% on BrowseComp, 43.6% on BrowseComp-ZH, 65.2% on GAIA, and 71% on xbench-deepsearch.
 
 06/26/2025: Our survey for frontiers in LLM reasoning has been accepted by TMLR. Congrats to my co-authors!
