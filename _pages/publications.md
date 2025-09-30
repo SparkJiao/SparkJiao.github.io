@@ -53,7 +53,7 @@ Chengwei Qin\*, Wenhan Xia\*, Tan Wang\*, **Fangkai Jiao**, Yuchen Hu, Bosheng D
 [[Paper](https://arxiv.org/abs/2402.00658)][[Code & Data & Weights](https://github.com/SparkJiao/dpo-trajectory-reasoning)]  
 
 - **How Much are LLMs Contaminated? A Comprehensive Survey and the LLMSanitize Library** <br>
-Mathieu Ravaut\*, Bosheng Ding\*, **Fangkai Jiao**, Hailin Chen, Xingxuan Li, Ruochen Zhao, Chengwei Qin, Caiming Xiong, Shafiq Joty. _Preprint._  
+Mathieu Ravaut\*, Bosheng Ding\*, **Fangkai Jiao**, Hailin Chen, Xingxuan Li, Ruochen Zhao, Chengwei Qin, Caiming Xiong, Shafiq Joty. _TMLR._  
 [[Paper](https://arxiv.org/abs/2404.00699)][[Repository](https://github.com/ntunlp/LLMSanitize)]  
 
 ## 2023

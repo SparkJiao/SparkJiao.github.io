@@ -24,7 +24,7 @@ My research focuses on developing pseudo or decomposed feedback to improve the r
 
 09/18/2025: One paper is accepted by NeurIPS 2025.
 
-08/22/2025: We presnet [S1 Search](https://www.notion.so/xxxSearch-Scaling-RL-Training-for-High-Performance-Deep-Research-256e26dc90f180ae88ebecd0e5a0a726).
+08/22/2025: We presented [S1 Search](https://www.notion.so/xxxSearch-Scaling-RL-Training-for-High-Performance-Deep-Research-256e26dc90f180ae88ebecd0e5a0a726).
 
 06/26/2025: Our survey for frontiers in LLM reasoning has been accepted by TMLR. Congrats to my co-authors!
 
