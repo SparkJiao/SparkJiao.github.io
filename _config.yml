@@ -86,7 +86,7 @@ author:
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=_u8lwyIAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_u8lwyIAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
   email            : "jiaofangkai [AT] hotmail [dot] com"
   dblp             : "https://dblp.org/pid/264/9981.html"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
