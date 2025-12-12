@@ -16,7 +16,6 @@ Previsouly, I have interned at CoAI Lab, Tsinghua University, mentored by [Prof.
 
 My research focuses on developing pseudo or decomposed feedback to improve the reasoning and complex task solving ability of LLMs and agent systems through reinforcement learning. I was one of the main contributors to [PandaLLM](https://github.com/dandelionsllm/pandallm) project.
 
-<span style="color:red;">*I'm on the job market now and would like to communicate with potential opportunities!*</span>
 
 ## News
 
