@@ -21,6 +21,10 @@ author_profile: true
 Zixuan Ke, **Fangkai Jiao**, Yifei Ming, Xuan-Phi Nguyen, Austin Xu, Do Xuan Long, Minzhi Li, Chengwei Qin, Peifeng Wang, Silvio Savarese, Caiming Xiong, Shafiq Joty. _TMLR._  
 [[Website](https://llm-reasoning-ai.github.io/)][[Paper](https://arxiv.org/abs/2504.09037)]  
 
+- **Seed1.8 Model Card: Towards Generalized Real-World Agency** <br>
+Bytedance Seed. _Model Card._  
+[[Website](https://seed.bytedance.com/en/seed1_8)]  
+
 ## 2024
 
 - **StructTest: Benchmarking LLMs' Reasoning through Compositional Structured Outputs** <br>
