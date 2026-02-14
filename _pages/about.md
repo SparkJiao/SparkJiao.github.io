@@ -19,7 +19,9 @@ My research focuses on developing pseudo or decomposed feedback to improve the r
 
 ## News
 
-12/18/2025: Seed 1.8 is released. Welcome to check the [model card](https://github.com/ByteDance-Seed/Seed-1.8/blob/main/Seed-1.8-Modelcard.pdf) and [blog](https://seed.bytedance.com/en/seed1_8) for more use cases. I'm in charge of the post-training for agentic scenarios. We have achieved 67.6 on BrowseComp, 40.9 on HLE (w/ hybrid tools), and 63.8 on WideSearch.
+02/14/2026: Seed2.0 is released. Kindly check the model card [here](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf).
+
+12/18/2025: Seed1.8 is released. Welcome to check the [model card](https://github.com/ByteDance-Seed/Seed-1.8/blob/main/Seed-1.8-Modelcard.pdf) and [blog](https://seed.bytedance.com/en/seed1_8) for more use cases. I'm in charge of the post-training for agentic scenarios. We have achieved 67.6 on BrowseComp, 40.9 on HLE (w/ hybrid tools), and 63.8 on WideSearch.
 
 09/21/2025: The website of our tutorial about Instruction Tuning at EMNLP 2025 is now [available](https://instruction-tuning-tutorial-2025.github.io). Welcome to have a chat with us and and see you at Suzhou!
 
